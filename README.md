@@ -109,10 +109,3 @@ npm run dev     # Runs frontend on http://localhost:5173
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-## 📬 Contact
-**Arslan Riaz** - [arslanriaz785@gmail.com](mailto:arslanriaz785@gmail.com)
-
-Project Link: [https://github.com/Adnan-Parveez/React-e-plantShopping](https://github.com/Adnan-Parveez/React-e-plantShopping)
-
-*Created with ❤️ for plant lovers everywhere.*
