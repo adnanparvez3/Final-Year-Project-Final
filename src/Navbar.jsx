@@ -15,7 +15,7 @@ const Navbar = () => {
         <Link to="/" className="nav-logo">
           <Leaf className="logo-icon" />
           <div className="logo-text">
-            <h2>Ziad's Plants</h2>
+            <h2>PlantCart</h2>
             <span>Pure Nature in Every Leaf</span>
           </div>
         </Link>

@@ -11,7 +11,7 @@ function AboutUs() {
       {/* SECTION 1: Welcome Header */}
       <header className="welcome-hero">
         <div className="hero-box">
-          <h1 className="hero-title">Welcome To<br /><span>Ziad's Plants</span></h1>
+          <h1 className="hero-title">Welcome To<br /><span>PlantCart</span></h1>
           <div className="line"></div>
           <p>Where Green Meets Serenity</p>
           <button className="btn-start" onClick={scrollToAbout}>Get Started</button>
@@ -29,7 +29,7 @@ function AboutUs() {
         <div className="bento-grid">
           <div className="card mission">
             <h3>Our Green Mission</h3>
-            <p>At Ziad's Plants, we believe every leaf tells a story...</p>
+            <p>At PlantCart, we believe every leaf tells a story...</p>
           </div>
           <div className="card stat">
             <h4>98%</h4>
